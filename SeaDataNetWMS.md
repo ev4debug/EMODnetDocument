@@ -1,8 +1,12 @@
 # SeaDataNet Climatology re-organized by EMODnet Physics
 
-Original data product: http://sdn.oceanbrowser.net/web-vis/?server=http://gher-diva.phys.ulg.ac.be/web-vis/Python/web/wms
+*Original data product*
 
-EMODnet Physics product page: http://www.emodnet-physics.eu/Map/Products/V2/PRODUCTS.aspx?PRODTYPE=CL
+http://sdn.oceanbrowser.net/web-vis/?server=http://gher-diva.phys.ulg.ac.be/web-vis/Python/web/wms
+
+*EMODnet Physics product page*
+
+http://www.emodnet-physics.eu/Map/Products/V2/PRODUCTS.aspx?PRODTYPE=CL
 
 ## WMS service url
 
